@@ -64,7 +64,7 @@ project/
 ├── database/
 │   └── sleep_study.db                          # SQLite database
 ├── scripts/
-│   └── etl_pipeline.py                         # ETL pipeline script
+│   └── sleep_study_etl_pipeline.ipynb          # ETL pipeline script
 └── README.md                                   # Project documentation
 ```
 
@@ -82,7 +82,7 @@ project/
    ```
 3. Run the ETL pipeline script:
    ```bash
-   python scripts/etl_pipeline.py
+   python scripts/sleep_study_etl_pipeline.ipynb
    ```
 4. Check the output:
    - Transformed data: `data/transformed_sleep_data.csv`
