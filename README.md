@@ -10,6 +10,14 @@ The ETL pipeline:
 
 ---
 
+## Analysis Repository
+The **analysis** part of this project, which includes data exploration, statistical analysis, and visualizations, is located in a separate GitHub repository. You can access the analysis code and documentation here:  
+[**Analysis Repository: sleep-cognition-analysis**](https://github.com/mdislam1/sleep-cognition-analysis.git)
+
+This repository contains the complete implementation of the analysis, including data visualizations, correlation analysis, and insights derived from the dataset.
+
+---
+
 ## Dataset Description
 The dataset contains the following key columns:
 - **Sleep Metrics**: `Sleep_Hours`, `Sleep_Quality_Score`, `Daytime_Sleepiness`
