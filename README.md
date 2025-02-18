@@ -73,7 +73,7 @@ project/
 ## How to Run the ETL Pipeline
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/mdislam1/sleep-cognition-etl.git
    cd project
    ```
 2. Install the required libraries:
@@ -106,10 +106,7 @@ project/
 ---
 
 ## Author
-[Your Name]  
-[Your Email]  
-[GitHub Profile]
+Md Islam  
+GitHub: https://github.com/mdislam1
 
 ---
-
-This `README.md` provides a clear and professional overview of the ETL pipeline part of your project. Let me know if you'd like to add or modify anything!
